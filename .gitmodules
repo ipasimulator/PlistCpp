@@ -1,9 +1,12 @@
 [submodule "third-party/pugixml"]
 	path = third-party/pugixml
-	url = https://github.com/zeux/pugixml.git
+	url = https://jjones.visualstudio.com/DefaultCollection/IPASimulator/_git/pugixml
+    branch = port
 [submodule "third-party/unittest-cpp"]
 	path = third-party/unittest-cpp
-	url = https://github.com/unittest-cpp/unittest-cpp.git
+	url = https://jjones.visualstudio.com/DefaultCollection/IPASimulator/_git/unittest-cpp
+    branch = port
 [submodule "third-party/NSPlist"]
 	path = third-party/NSPlist
-	url = https://github.com/Microsoft/NSPlist.git
+	url = https://jjones.visualstudio.com/DefaultCollection/IPASimulator/_git/NSPlist
+    branch = port
